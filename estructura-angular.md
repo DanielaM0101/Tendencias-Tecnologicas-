@@ -91,7 +91,8 @@ tree
 ## Resultados esperados
 Al desarrollar esta  práctica, se obtuvo  una estructura de proyecto Angular correctamente organizada y visualible en la terminal mediante el comando tree. Además, se logró  desarrollar habilidades en la manipulación de archivos y directorios en Linux.
 
-![Captura desde 2025-04-02 19-26-17](https://github.com/user-attachments/assets/dac6fa22-bb0b-4237-9758-5822363c2d8c)
+![image](https://github.com/user-attachments/assets/98da3efb-9a7b-4713-a093-f359f7c28875)
+
 
 *Figura 1-2.Comandos linux utilizados y resultado final.
 ## Blibiografia
