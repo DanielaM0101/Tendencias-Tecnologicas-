@@ -92,9 +92,10 @@ tree
 Al desarrollar esta  práctica, se obtuvo  una estructura de proyecto Angular correctamente organizada y visualible en la terminal mediante el comando tree. Además, se logró  desarrollar habilidades en la manipulación de archivos y directorios en Linux.
 
 ![image](https://github.com/user-attachments/assets/98da3efb-9a7b-4713-a093-f359f7c28875)
-[Escuchar resumen](https://drive.google.com/file/d/1Nsdre2y7IiibsbP5fIUweoL453xNroD5/view?usp=drive_link)  
-
 *Figura 1-2.Comandos linux utilizados y resultado final.
+
+[Escuchar resumen](https://drive.google.com/file/d/1Nsdre2y7IiibsbP5fIUweoL453xNroD5/view?usp=drive_link) 
+Resumen en formato audio
 ## Blibiografia
 Optimiza tu Proyecto Angular: Guía Completa de Estructura de Carpetas. (2024, 15 julio). https://amoelcodigo.com/posts/angular-folders/
 A, D., & A, D. (2025, 17 marzo). Los 40 comandos de Linux más populares y utilizados en para 2025. ES Tutoriales. https://www.hostinger.es/tutoriales/linux-comandos
