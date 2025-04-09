@@ -154,7 +154,11 @@ Figura 1-3. Página del contenedor nginx2 con contenido personal
 Figura 1-4. Pasos Utilizados en esta práctica 
 ![Captura de pantalla 2025-04-07 181234](https://github.com/user-attachments/assets/cff5d31c-deca-4e38-85ef-6c1f46301a5a)
 
+
+Esto indica que los contenedores están funcionando correctamente y se ha logrado la personalización del contenido.
+
  [Escuchar resumen](https://drive.google.com/file/d/1lVMdqL_8A6gmhMgG0Azzszrd7JvIpJtb/view?usp=drive_link) 
+ 
  
 ## Bibliografia 
 Dock, M. (2023, 15 junio). Play with Docker | Docker. Docker. https://www.docker.com/play-with-docker/
@@ -164,6 +168,6 @@ Ratliff, S. (2025, 23 enero). Docker: Accelerated Container Application Developm
 
 
 
-Esto indica que los contenedores están funcionando correctamente y se ha logrado la personalización del contenido.
+
 
 
