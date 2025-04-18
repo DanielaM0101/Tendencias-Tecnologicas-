@@ -123,7 +123,7 @@ Los datos se mantienen después de eliminar y recrear el contenedor si se utiliz
 
 Al realizar esta práctica, se logró comprobar la persistencia de los datos en contenedores Docker, tanto con como sin volúmenes. En el caso de los contenedores sin volumen, se verificó que los datos, incluyendo la base de datos `test` y la tabla `customer`, se pierden al detener y eliminar el contenedor. Por otro lado, al utilizar volúmenes, se pudo garantizar la persistencia de los datos, ya que, al recrear el contenedor, la base de datos y los registros insertados permanecieron intactos. Además, se obtuvo una comprensión más profunda de cómo Docker maneja los datos y cómo los volúmenes proporcionan una solución efectiva para la conservación de la información.
 
-[Escuchar resumen](https://drive.google.com/file/d/1Nsdre2y7IiibsbP5fIUweoL453xNroD5/view?usp=drive_link) 
+[Escuchar resumen](https://drive.google.com/file/d/1DJuIrlVl0hE6CHfIg2KXNQL9Wmm-v1rU/view?usp=drive_link) 
 Resumen en formato audio
 
 
