@@ -115,12 +115,19 @@ Los datos de la base de datos se pierden al eliminar el contenedor si no se usan
 
 Los datos se mantienen después de eliminar y recrear el contenedor si se utiliza un volumen.
 ![Captura desde 2025-04-18 13-31-32](https://github.com/user-attachments/assets/789e82da-1a5b-4416-bd64-c93ca001f50a)
+ ### Figura 1-6 Base de datos intactos usando volumen.
+
+ ![Captura desde 2025-04-18 13-46-04](https://github.com/user-attachments/assets/bb6a5dec-1b6b-4506-a1a7-2a47611b10c7)
+
  ### Figura 1-8. Visualización de warp con todos los comandos utilizados en la práctica.
 
 Al realizar esta práctica, se logró comprobar la persistencia de los datos en contenedores Docker, tanto con como sin volúmenes. En el caso de los contenedores sin volumen, se verificó que los datos, incluyendo la base de datos `test` y la tabla `customer`, se pierden al detener y eliminar el contenedor. Por otro lado, al utilizar volúmenes, se pudo garantizar la persistencia de los datos, ya que, al recrear el contenedor, la base de datos y los registros insertados permanecieron intactos. Además, se obtuvo una comprensión más profunda de cómo Docker maneja los datos y cómo los volúmenes proporcionan una solución efectiva para la conservación de la información.
 
+[Escuchar resumen](https://drive.google.com/file/d/1Nsdre2y7IiibsbP5fIUweoL453xNroD5/view?usp=drive_link) 
+Resumen en formato audio
 
 
 ## 10. Bibliografía
-    
-- Apellido,..... En apa
+ Docker Inc. (2023). Docker Documentation. Recuperado de https://docs.docker.com.
+
+PostgreSQL Global Development Group (2023). PostgreSQL 15 Documentation. Recuperado de https://www.postgresql.org/docs/15/.
