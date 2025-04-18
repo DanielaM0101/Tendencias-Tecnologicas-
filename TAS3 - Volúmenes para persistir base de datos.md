@@ -7,6 +7,9 @@ Persistencia de Datos en Contenedores Docker con PostgreSQL
 Los contenedores Docker son entornos aislados que permiten ejecutar aplicaciones con sus dependencias. Sin embargo, por defecto, los datos generados en un contenedor no persisten si este se elimina. Esto se debe a que el sistema de archivos de un contenedor es efímero.
 #### Persistencia con volúmenes:
 Un volumen de Docker es un mecanismo para almacenar datos fuera del ciclo de vida del contenedor. Al vincular un volumen al directorio /var/lib/postgresql/data de PostgreSQL, los datos de la base de datos se guardan en el host, permitiendo su recuperación incluso si el contenedor se destruye 
+![image](https://github.com/user-attachments/assets/acdb8e01-549f-40d6-82f6-1897a1e9d884)
+ ### Figura 1-1. Arquitectura Docker con/sin Volúmenes
+
 #### PostgreSQL:
 Sistema de gestión de bases de datos relacional (RDBMS) que utiliza contenedores para despliegues rápidos. Sin un volumen, los datos se pierden al reiniciar el contenedor.
 
@@ -22,18 +25,15 @@ Sistema de gestión de bases de datos relacional (RDBMS) que utiliza contenedore
 3. Validar la recuperación de bases de datos después de eliminar y recrear contenedores.
   
 ## 6. Equipo necesario:
-  
-- Computador con sistema operativo Windows/Linux/Mac ...
-- Cuenta en docker play....
-- Docker v xxxx
-- etc.
+- Computadora Asus vivibook M1603QA RYZEN 5 16GB 512G
+- Cliente de PostgreSQL (psql) o herramienta gráfica (TablePlus, DataGrip).
 
 ## 7. Material de apoyo.
    
-- Documentacion de docker.
-- Guia de asignatura.
-- Cheat sheet linux
-- etc
+- Documentación oficial de Docker
+- Guía rápida de comandos PostgreSQL
+- Tutorial de volúmenes en Docker
+-  Guía de la asignatura
   
 ## 8. Procedimiento
 
