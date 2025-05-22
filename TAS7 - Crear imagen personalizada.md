@@ -239,7 +239,8 @@ docker ps
    ![Captura desde 2025-05-22 14-57-46](https://github.com/user-attachments/assets/45a1cce6-07f7-48e9-b5d9-e3a1be14d2df)
    ![Captura desde 2025-05-22 14-58-04](https://github.com/user-attachments/assets/4fd2668a-a30e-4f6d-9884-94f77fc46427)
 
----
+
+  [Escuchar resumen](https://drive.google.com/file/d/1VkJfGiQjUsifoCmaCXDx_I9r3Vv4DXuV/view?usp=drive_link) 
 
 
 
