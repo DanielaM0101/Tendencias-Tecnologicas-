@@ -115,7 +115,8 @@ Al completar la práctica, deberían ser visibles los siguientes resultados:
 - Poder acceder a pgAdmin a través del navegador y establecer una conexión exitosa con la base de datos.
 - El endpoint /users devolviendo una lista en formato JSON con los usuarios almacenados.
 - Una imagen Docker optimizada y contenedores que puedan ser reproducidos de manera sencilla.
-
+[Escuchar resumen](https://drive.google.com/file/d/1aZvHAp5T2FOMuX6MeNfZogDZMPbxkJ16/view?usp=drive_link)
+Resumen en formato audio
 
  
 
