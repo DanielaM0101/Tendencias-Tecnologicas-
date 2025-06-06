@@ -93,8 +93,9 @@ docker-compose up --build
 ![imagen](https://github.com/user-attachments/assets/e6a60f28-7322-4518-a6db-0635cca658f4)
 
 **Paso 7:** Acceder a pgAdmin desde el navegador y crear un nuevo servidor con los datos de conexión.
-![Captura desde 2025-06-05 19-24-27](https://github.com/user-attachments/assets/606c8ebf-ca7b-48a8-a349-ea01c00fc1ee)
+
 ![Captura desde 2025-06-05 20-09-45](https://github.com/user-attachments/assets/beb8f188-71a5-4efb-916c-3dc0932fd9e5)
+![Captura desde 2025-06-05 19-24-27](https://github.com/user-attachments/assets/606c8ebf-ca7b-48a8-a349-ea01c00fc1ee)
 ![Captura desde 2025-06-05 20-10-38](https://github.com/user-attachments/assets/c7049813-e0ae-4c3c-b386-a5717c370d0e)
 ![Captura desde 2025-06-05 20-14-36](https://github.com/user-attachments/assets/12fd4bd1-a99b-4cbc-9b76-f6d83a0c0d64)
 
