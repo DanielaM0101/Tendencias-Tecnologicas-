@@ -20,6 +20,8 @@ Esta práctica demostró la implementación de una arquitectura de contenedores 
 - Configuración mediante variables de entorno
 
 
+
+
 ![imagen](https://github.com/user-attachments/assets/1b893d1f-e92e-4d74-b5ed-61df7a184e1d)
 
 
@@ -115,8 +117,10 @@ Al completar la práctica, deberían ser visibles los siguientes resultados:
 - Poder acceder a pgAdmin a través del navegador y establecer una conexión exitosa con la base de datos.
 - El endpoint /users devolviendo una lista en formato JSON con los usuarios almacenados.
 - Una imagen Docker optimizada y contenedores que puedan ser reproducidos de manera sencilla.
+
+## Resumen en formato audio
 [Escuchar resumen](https://drive.google.com/file/d/1aZvHAp5T2FOMuX6MeNfZogDZMPbxkJ16/view?usp=drive_link)
-Resumen en formato audio
+
 
  
 
