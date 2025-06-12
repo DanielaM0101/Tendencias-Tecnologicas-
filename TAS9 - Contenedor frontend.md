@@ -253,7 +253,7 @@ Al completar la práctica, deberían ser visibles los siguientes resultados:
 - ULa aplicación debe responder sin errores en la consola del navegador.
 
 ## Resumen en formato audio
-[Escuchar resumen](https://drive.google.com/file/d/1aZvHAp5T2FOMuX6MeNfZogDZMPbxkJ16/view?usp=drive_link)
+[Escuchar resumen](https://drive.google.com/file/d/1cdiWFBgGhThUDgJlkwZA6KH0hqd7qpH8/view?usp=drive_link)
 
 
  
