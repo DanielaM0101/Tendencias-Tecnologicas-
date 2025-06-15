@@ -103,7 +103,7 @@ docker-compose up --build
   Backend: Responde en http://localhost/api/data.
 ![imagen](https://github.com/user-attachments/assets/57f1b7b0-72a2-4fb6-9a41-e2130e237e0c)
 
-  PgAdmin: Interfaz en http://localhost:5050.
+  PgAdmin: Interfaz en http://localhost:5051.
  ![imagen](https://github.com/user-attachments/assets/5c006056-3daf-45ae-abfe-b4551ef8f003)
 
 ## 9. Resultados esperados
