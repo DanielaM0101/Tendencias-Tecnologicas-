@@ -22,7 +22,9 @@ La combinación de Nginx y Docker proporciona una solución potente para impleme
 
 Nginx puede funcionar como servidor web, proxy inverso, balanceador de carga y caché HTTP. En esta práctica, nos enfocaremos en su función como servidor web para servir contenido estático. La configuración básica de Nginx se realiza a través de archivos de configuración con una sintaxis específica, donde se definen los servidores virtuales, las ubicaciones, las reglas de enrutamiento y otras directivas.
 
+
 Para implementar Nginx en Docker, se uso una imagen oficial de Nginx disponible en Docker Hub. Esta imagen incluye Nginx preinstalado y configurado con valores predeterminados, pero podemos personalizarla según nuestras necesidades proporcionando nuestros propios archivos de configuración y contenido web.
+
 
 ## 4. Conocimientos previos  
 Para realizar esta practica se necesita tener claro los siguientes temas:
@@ -116,7 +118,7 @@ Al finalizar esta práctica, se deberia haber logrado:
 4. Configurar múltiples sitios web (hosts virtuales) en un solo servidor Nginx.
 
 ## Resumen en formato audio
-[Escuchar resumen](https://drive.google.com/file/d/1cdiWFBgGhThUDgJlkwZA6KH0hqd7qpH8/view?usp=drive_link)
+[Escuchar resumen](https://drive.google.com/file/d/1eNLKqeijhV10vBLd_BW3aiczFzcYGoUX/view?usp=drive_link)
 
 
 
